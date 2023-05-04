@@ -1,5 +1,4 @@
 # MrKittyOfc.github.io
-MK Management
 
 MK Management:
 
